@@ -12,9 +12,9 @@ Just like how a seemingly empty tiny patch of sky reveals thousands of galaxies 
 - However, every dark bin is still a recipient of direct donations from the community holding the potential to grow brighter over time
 - We simulate "long exposure" to capture the light coming from these seemingly darker spots by rendering the honeycomb on a logarithmic scale
   
-![With log scale, the honeycomb lit up showing the impact of community funding for future stars](https://github.com/rohitmalekar/PGF-s-Deep-Fields/blob/main/PGF_Log.jpg)
+![With log scale, the honeycomb lit up, showing the impact of community funding for future stars](https://github.com/rohitmalekar/PGF-s-Deep-Fields/blob/main/PGF_Log.jpg)
 
-- Now, with this renewed perspective, we can see the potential for light in every bin - a signal to the community that even if their direct donations might not be going to the most popular public goods projects, their ecosystem-wide support raises the probability of discovering newer starts of the future.
+- Now, with this renewed perspective, we can see the potential for light in every bin - a signal to the community that even if their direct donations might not be going to the most popular public goods projects, their ecosystem-wide support raises the probability of discovering newer stars of the future.
 
 ## Steps
 1. Execute create_datasets.py to extract the list of projects with at least $10 of direct donations in 2023 on Gitcoin
