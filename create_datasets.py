@@ -5,13 +5,8 @@ import duckdb
 import pandas as pd
 import math
 
-
-# Fetch the latest IPFS CID from a specified URL
-LATEST_IPFS_CID_URL = 'https://raw.githubusercontent.com/davidgasquez/gitcoin-grants-data-portal/main/data/IPFS_CID'
-LATEST_IPFS_CID = requests.get(LATEST_IPFS_CID_URL).text.strip()
-
 # Construct the gateway URL
-GATEWAY_URL = f'https://ipfs.filebase.io/ipfs/{LATEST_IPFS_CID}/'
+GATEWAY_URL = 'https://ipfs.filebase.io/ipns/k51qzi5uqu5dhn3p5xdkp8n6azd4l1mma5zujinkeewhvuh5oq4qvt7etk9tvc/'
 
 
 # Select all projects with at least $10 in direct donations in 2023
